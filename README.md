@@ -1,2 +1,2 @@
 # testproject1
-Hi this is Pradhyumna doing a SE assignemnt
+Hi this is Pradhyumna doing a SE assigment
